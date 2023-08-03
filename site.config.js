@@ -14,10 +14,6 @@ const CONFIG = {
     {
       name: 'Wedding-invitation',
       href: 'https://jq-loves-sa.link'
-    },
-    {
-      name: 'nodelab',
-      href: 'https://nodelab-front.vercel.app'
     }
   ],
   // blog setting (required)
